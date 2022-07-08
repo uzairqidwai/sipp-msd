@@ -1,0 +1,2 @@
+sipp_unittest-rijndael.o: src/rijndael.c /usr/include/stdc-predef.h
+/usr/include/stdc-predef.h:

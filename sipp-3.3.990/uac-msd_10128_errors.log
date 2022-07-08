@@ -1,0 +1,2 @@
+sipp: The following events occured:
+2022-07-08	13:06:11.716337	1657299971.716337: Unable to bind main socket, errno = 22 (Invalid argument).

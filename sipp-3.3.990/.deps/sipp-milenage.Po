@@ -1,0 +1,5 @@
+sipp-milenage.o: src/milenage.c /usr/include/stdc-predef.h \
+ include/milenage.h include/rijndael.h
+/usr/include/stdc-predef.h:
+include/milenage.h:
+include/rijndael.h:
