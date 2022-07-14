@@ -67,3 +67,6 @@ Examples:
 ```
 
 
+###### Further Documentation
+If you would like to read further documentation, please visit http://sipp.sourceforge.net/doc/reference.html
+
