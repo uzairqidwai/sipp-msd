@@ -10,7 +10,7 @@ Run the following commands:
 ```
 sudo apt-get update
 git clone https://github.com/uzairqidwai/sipp-msd.git
-cd sipp-3.3.990
+cd sipp-msd/sipp-3.3.990
 ./configure
 make
 ```
@@ -22,7 +22,7 @@ Run the following commands:
 sudo apt-get update
 sudo apt install autoconf
 git clone https://github.com/uzairqidwai/sipp-msd.git
-cd sipp-3.3.990
+cd sipp-msd/sipp-3.3.990
 ./configure
 make
 ```
