@@ -67,6 +67,10 @@ Examples:
 ```
 
 
-###### Further Documentation
-If you would like to read further documentation, please visit http://sipp.sourceforge.net/doc/reference.html
+###### Resources
+https://datatracker.ietf.org/doc/html/rfc8147
+https://docbox.etsi.org/Workshop/2021/202103NGeCall_webinar/Ralf_Weber_Next_Generation_eCall_vs_Legacy_eCall.pdf
+https://www.itu.int/en/ITU-T/extcoop/cits/Documents/Workshop-201507-Beijing/Presentations/S1P5-Yan-Li.pdf
+http://sipp.sourceforge.net/doc/reference.html
+
 
