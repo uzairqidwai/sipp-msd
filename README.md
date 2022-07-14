@@ -67,6 +67,7 @@ Examples:
 ```
 
 
+
 ###### Resources
 https://datatracker.ietf.org/doc/html/rfc8147
 https://docbox.etsi.org/Workshop/2021/202103NGeCall_webinar/Ralf_Weber_Next_Generation_eCall_vs_Legacy_eCall.pdf
