@@ -17,7 +17,7 @@ At this point, the image should be generated and you should be able to go into t
 ```
 docker ps
 ```
-You should be able to see the sipp-docker container running. Make note of the container ID (copy it). Then run use the following command to pass any commands to the container:
+You should be able to see the sipp-docker container running. Make note of the container ID (copy it). Then run use the following command to pass any commands to the container. (Note: The container will be in the directory sipp is installed in by default)
 ```
 sudo docker exec -it <container ID> <command to pass>
 ```
