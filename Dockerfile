@@ -14,3 +14,4 @@ RUN chmod +x configure
 RUN ./configure
 RUN make
 
+ENTRYPOINT ["/usr/local/bin/docker-entrypoint.sh"]
