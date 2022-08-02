@@ -5,6 +5,27 @@ This tools allows MSD files to be transfered over SIP using SIPp. The primary ap
 # How to Install
 
 
+###### Docker
+Run the following commands:
+```
+mkdir sipp-docker
+cd sipp-docker
+wget https://raw.githubusercontent.com/uzairqidwai/sipp-msd/main/Dockerfile
+docker build -t sipp-docker .
+```
+At this point, the image should be generated and you should be able to go into the Traffic Generator software and select the sipp-docker:latest image. Run this image and once it is live, go back to your terminal and run the following command:
+```
+docker ps
+```
+You should be able to see the sipp-docker container running. Make note of the container ID (copy it). Then run use the following command to pass any commands to the container:
+```
+sudo docker exec -it <container ID> <command to pass>
+```
+For example:
+```
+sudo docker exec -it c395d85330c4 ./sipp -sn uas -i 192.168.31.12
+```
+
 ###### Ubuntu 22.04 
 Run the following commands:
 ```
